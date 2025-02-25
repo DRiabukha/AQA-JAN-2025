@@ -13,7 +13,6 @@ public class SetDemo {
         stringSet.add("b");
         stringSet.add("c");
         stringSet.add("e");
-
         System.out.println(stringSet.size());
     }
 }
