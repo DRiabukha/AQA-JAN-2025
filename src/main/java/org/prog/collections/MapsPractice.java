@@ -21,7 +21,7 @@ public class MapsPractice {
         ownedCars.put(driver1, new HashSet<>());
         ownedCars.put(driver2, new HashSet<>());
         ownedCars.put(driver3, new HashSet<>());
-
+ 
         ownedCars.get(driver1).add(new Car("Red"));
         ownedCars.get(driver1).add(new Car("Blue"));
         ownedCars.get(driver1).add(new Car("Blue"));

@@ -43,7 +43,6 @@ public class CollectionsHomework {
         cars.put("Car8", new ArrayList<>());
 
 
-
         cars.get("Car1").add(driver1);
 
         cars.get("Car2").add(driver1);
