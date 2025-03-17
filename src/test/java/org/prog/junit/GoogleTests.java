@@ -44,7 +44,6 @@ public class GoogleTests {
         System.out.println("Search for " + celebrityName);
         System.out.println("Confirm at lest 5 results found");
     }
-
     @ParameterizedTest
     @ValueSource(ints = {817263, 54320, 7655, 6878912})
     public void testSmth(int i) {
