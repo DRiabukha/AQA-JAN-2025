@@ -6,7 +6,7 @@ import io.restassured.specification.RequestSpecification;
 import org.prog.dto.ResultsDto;
 import org.testng.annotations.Test;
 
-public class ApiTests {
+public class  ApiTests {
 
     @Test
     public void apiTest() {
